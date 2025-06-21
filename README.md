@@ -1,4 +1,3 @@
----
 # Auth API - Laravel 11
 
 Proyek ini adalah implementasi **RESTful API sederhana** untuk autentikasi pengguna, dibangun dengan **Laravel 11**. Dilengkapi dengan **JWT Authentication** dan dokumentasi API otomatis menggunakan **Swagger (l5-swagger)**, API ini dirancang untuk mudah diintegrasikan.
